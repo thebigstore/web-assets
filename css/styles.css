@@ -8952,8 +8952,12 @@ label.panel-block:hover {
   padding-bottom: 0px;
 }
 
+.container {
+  max-width: 1000px;
+}
+
 .container-small {
-  max-width: 800px;
+  max-width: 830px;
 }
 
 .last {
